@@ -871,7 +871,7 @@ export function clearToken() {
 }
 
 function authHeaders() {
-  const headers = { "Content-Type": "application/json" }
+  const headers = {}
   if (authToken) {
     headers["Authorization"] = `Bearer ${authToken}`
   }
@@ -1433,6 +1433,13 @@ const styles = {
 export default App
 ```
 
+### 💡Troubleshooting Hint
+```
+Pastikan :
+1. Header HTTP yang dikirim oleh frontend
+2. Apakah request dengan body JSON sudah menyertakan header yang sesuai?
+3. Gunakan tab Network di browser DevTools untuk mengecek detail request
+```
 ### Jalankan & Test
 
 ```bash
