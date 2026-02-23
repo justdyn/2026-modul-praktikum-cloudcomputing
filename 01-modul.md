@@ -81,6 +81,7 @@ flowchart TD
     subgraph SEMUA ["👥 SEMUA ANGGOTA
     (wajib kontribusi)"]
         direction TB
+        SPACE[ ]:::hidden
         CODE[Menulis kode & commit]
         REVIEW[Code review PR teman]
         TEST[Testing fitur sendiri]
@@ -102,6 +103,7 @@ flowchart TD
 
     style SEMUA fill:#E2EFDA,stroke:#548235
     style LEADS fill:#DEEBF7,stroke:#2E75B6
+    style SPACE fill:none,stroke:none,color:none
 ```
 
 ---
