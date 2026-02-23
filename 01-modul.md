@@ -78,9 +78,9 @@ Jika kelompok terdiri dari 5 orang, peran DevOps dipecah menjadi dua:
 
 ```mermaid
 flowchart TD
-    subgraph SEMUA ["👥 SEMUA ANGGOTA"]
+    subgraph SEMUA ["👥 SEMUA ANGGOTA
+    (wajib kontribusi)"]
         direction TB
-        WAJIB[⚠️ wajib kontribusi]
         CODE[Menulis kode & commit]
         REVIEW[Code review PR teman]
         TEST[Testing fitur sendiri]
