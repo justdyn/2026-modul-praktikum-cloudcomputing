@@ -389,6 +389,10 @@ mindmap
 ---
 
 ## Workshop 3.1: Setup API Service Layer (20 menit)
+```
+Fokus dalam tahap pengerjaan, periksa kembali apa yang sudah di copy dari modul
+
+```
 
 ### Langkah 1: Buat Folder Struktur
 
@@ -456,7 +460,7 @@ export async function updateItem(id, itemData) {
 
 export async function deleteItem(id) {
   const response = await fetch(`${API_URL}/items/${id}`, {
-    method: "DELETE",
+    method: "POST",
   })
   if (!response.ok) throw new Error(`Gagal menghapus item ${id}`)
   return true
