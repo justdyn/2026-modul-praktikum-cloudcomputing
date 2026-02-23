@@ -389,10 +389,8 @@ mindmap
 ---
 
 ## Workshop 3.1: Setup API Service Layer (20 menit)
-```
-Fokus dalam tahap pengerjaan, periksa kembali apa yang sudah di copy dari modul
 
-```
+> ⚠️Fokus dalam tahap pengerjaan, periksa kembali apa yang sudah di copy dari modul
 
 ### Langkah 1: Buat Folder Struktur
 
