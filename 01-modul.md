@@ -690,7 +690,7 @@ def health_check():
     return {"status": "healthy"}
 
 
-@app.get("/teams")
+@app.get("/team")
 def team_info():
     return {
         "team": "cloud-team-XX",
