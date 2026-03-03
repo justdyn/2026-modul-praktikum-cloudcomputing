@@ -454,13 +454,18 @@ export async function updateItem(id, itemData) {
   return response.json()
 }
 
-// ==================== DELETE ====================
+/ ==================== DELETE ====================
 
 export async function deleteItem(id) {
   const response = await fetch(`${API_URL}/items/${id}`, {
-    method: "POST",
+    method: "DELETE",   
   })
-  if (!response.ok) throw new Error(`Gagal menghapus item ${id}`)
+
+  if (!response.ok) {
+    const error = await response.json().catch(() => ({}))
+    throw new Error(error.detail || `Gagal menghapus item ${id}`)
+  }
+
   return true
 }
 
