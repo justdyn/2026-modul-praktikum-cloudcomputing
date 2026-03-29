@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wc -l backend/*.py)",
+      "Bash(BASE=\"c:/laragon/www/Materi-Presentasi/2026-modul-praktikum-cloudcomputing/student-repos/cc-kelompok-submissions\" for kelompok in bismillah_a ccc_clan freepalestine harahetta-2 ignite kel6 nyawit_1 sowelcloudspace taskete_7)",
+      "Bash(do echo:*)",
+      "Bash(sort -rn echo \"--- LATEST 3 COMMITS ---\" git log --all --oneline -5 echo \"--- TOP-LEVEL STRUCTURE ---\" ls echo \"\" done)",
+      "Bash(grep \"\\\\.env$\")",
+      "Bash(head -2 echo \"-- CORS in main.py --\" grep -n \"allow_origins\\\\|ALLOWED_ORIGINS\\\\|origins\" backend/main.py)",
+      "Bash(head -3 echo \"-- JWT in main.py --\" grep -n \"jwt\\\\|JWT\\\\|token\\\\|auth\" backend/main.py)",
+      "Bash(/dev/null echo:*)"
+    ]
+  }
+}
