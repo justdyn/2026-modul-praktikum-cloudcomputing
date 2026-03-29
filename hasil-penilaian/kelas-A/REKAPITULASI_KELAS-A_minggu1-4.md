@@ -1,13 +1,16 @@
-# Rekapitulasi Penilaian Kelas A – Fase 1 (Minggu Kuliah 1–4)
-## Periode: 24 Februari – 22 Maret 2026
-## Mata Kuliah: Komputasi Awan (SI2514027) – Institut Teknologi Kalimantan
+# REKAPITULASI NILAI TUGAS TERSTRUKTUR — FASE 1 (MINGGU 1–4)
+**Mata Kuliah:** Komputasi Awan (SI2514027)
+**Dosen:** Aidil Saputra Kirsan, S.ST., M.Tr.Kom.
+**Kelas:** A
+**Periode:** 24 Februari – 22 Maret 2026
+**Tanggal Rekapitulasi:** 29 Maret 2026
 
 ---
 
-## A. Ranking Nilai Kelompok
+## A. NILAI TUGAS KELOMPOK (Komponen RPS: Tugas, bobot 5% semester)
 
-| Rank | Kelompok | M1 | M2 | M3 | M4 | Nilai Kelompok | Grade |
-|---|---|---|---|---|---|---|---|
+| No | Kelompok | M1 | M2 | M3 | M4 | Rata-rata | Nilai Huruf |
+|----|----------|:--:|:--:|:--:|:--:|:---------:|:-----------:|
 | 1 | hexacore | 90 | 92 | 90 | 90 | **90.50** | **A** |
 | 2 | suksesss | 88 | 85 | 85 | 88 | **86.50** | **A** |
 | 3 | awit | 88 | 82 | 85 | 85 | **85.00** | **AB** |
@@ -21,148 +24,152 @@
 | 11 | team-agile | 60 | 65 | 68 | 50 | **60.75** | **C** |
 | 12 | pria-solo | 20 | 30 | 20 | 35 | **26.25** | **E** |
 
-**Keterangan M1–M4:**
-- M1: README + /team endpoint
-- M2: Backend CRUD (FastAPI + PostgreSQL)
-- M3: React Frontend (Vite)
-- M4: JWT + CORS + .env
+> Skala: A ≥ 86, AB 76–<86, B 66–<76, BC 56–<66, C 51–<56, D 41–<51, E < 41
+>
+> **M1** = README + /team endpoint | **M2** = Backend CRUD (FastAPI + PostgreSQL) | **M3** = React Frontend (Vite) | **M4** = JWT + CORS + .env
 
 ---
 
-## B. Rekapitulasi Nilai Individual per Kelompok
+## B. NILAI INDIVIDU — SIKAP & PROFESIONALISME (Bobot 5% semester)
+*Berdasarkan git log per anggota: konsistensi commit, substansi, kesesuaian peran, commit message*
 
-### kelompok hexacore
-| Nama | NIM | Role | Ind. | Kel. | Rata-rata | Grade |
-|---|---|---|---|---|---|---|
-| Maulana Malik Ibrahim | 10231051 | Lead Backend | 94 | 90.50 | 92.25 | **A** |
-| Khanza Nabila Tsabita | 10231049 | Lead DevOps | 89 | 90.50 | 89.75 | **A** |
-| Micka Mayulia Utama | 10231053 | Lead Frontend | 86 | 90.50 | 88.25 | **A** |
-| Muhammad Aqila Ardhi | 10231057 | Lead QA & Docs | 74 | 90.50 | 82.25 | **AB** |
+### cc-kelompok-a-hexacore
+| NIM | Nama | Peran | Skor | Nilai |
+|-----|------|-------|:----:|:-----:|
+| 10231051 | Maulana Malik Ibrahim | Lead Backend | 94 | **A** |
+| 10231049 | Khanza Nabila Tsabita | Lead DevOps | 89 | **A** |
+| 10231053 | Micka Mayulia Utama | Lead Frontend | 86 | **A** |
+| 10231057 | Muhammad Aqila Ardhi | Lead QA & Docs | 74 | **B** |
 
-### kelompok suksesss
-| Nama | NIM | Role | Ind. | Kel. | Rata-rata | Grade |
-|---|---|---|---|---|---|---|
-| Rendy Rifandy Kurnia | 10231081 | Lead Backend | 87 | 86.50 | 86.75 | **A** |
-| Siti Nur Azizah Putri Awni | 10231087 | Lead QA & Docs | 85 | 86.50 | 85.75 | **A** |
-| Riska Fadlun Khairiyah Purba | 10231083 | Lead Frontend | 81 | 86.50 | 83.75 | **AB** |
-| Rizki Abdul Aziz | 10231085 | Lead DevOps | 73 | 86.50 | 79.75 | **AB** |
+### cc-kelompok-a-suksesss
+| NIM | Nama | Peran | Skor | Nilai |
+|-----|------|-------|:----:|:-----:|
+| 10231081 | Rendy Rifandy Kurnia | Lead Backend | 87 | **A** |
+| 10231087 | Siti Nur Azizah Putri Awni | Lead QA & Docs | 85 | **AB** |
+| 10231083 | Riska Fadlun Khairiyah Purba | Lead Frontend | 81 | **AB** |
+| 10231085 | Rizki Abdul Aziz | Lead DevOps | 73 | **B** |
 
-### kelompok awit
-| Nama | NIM | Role | Ind. | Kel. | Rata-rata | Grade |
-|---|---|---|---|---|---|---|
-| Alfian Fadillah Putra | 10231009 | Lead Frontend | 91 | 85.00 | 88.00 | **A** |
-| Adam Ibnu Ramadhan | 10231003 | Lead Backend | 86 | 85.00 | 85.50 | **A** |
-| Adonia Azarya Tamalonggehe | 10231007 | Lead QA & Docs | 77 | 85.00 | 81.00 | **AB** |
-| Adhyasta Firdaus | 10231005 | Lead CI/CD & Deploy | 75 | 85.00 | 80.00 | **AB** |
-| Varrel Kaleb Ropard Pasaribu | 10231089 | Lead Container | 65 | 85.00 | 75.00 | **B** |
+### cc-kelompok-a-awit
+| NIM | Nama | Peran | Skor | Nilai |
+|-----|------|-------|:----:|:-----:|
+| 10231009 | Alfian Fadillah Putra | Lead Frontend | 91 | **A** |
+| 10231003 | Adam Ibnu Ramadhan | Lead Backend | 86 | **A** |
+| 10231007 | Adonia Azarya Tamalonggehe | Lead QA & Docs | 77 | **AB** |
+| 10231005 | Adhyasta Firdaus | Lead CI/CD & Deploy | 75 | **B** |
+| 10231089 | Varrel Kaleb Ropard Pasaribu | Lead Container | 65 | **BC** |
 
-### kelompok extraordinary
-| Nama | NIM | Role | Ind. | Kel. | Rata-rata | Grade |
-|---|---|---|---|---|---|---|
-| Pangeran Borneo Silaen | 10231073 | Lead DevOps | 89 | 84.75 | 86.88 | **A** |
-| Rani Ayu Dewi | 10231079 | Lead QA & Docs | 87 | 84.75 | 85.88 | **A** |
-| Raisha Alika Irwandira | 10231077 | Lead Backend | 80 | 84.75 | 82.38 | **AB** |
-| Nicholas Christian Samuel Manurung | 10231069 | Lead Frontend | 77 | 84.75 | 80.88 | **AB** |
+### cc-kelompok-a-extraordinary
+| NIM | Nama | Peran | Skor | Nilai |
+|-----|------|-------|:----:|:-----:|
+| 10231073 | Pangeran Borneo Silaen | Lead DevOps | 89 | **A** |
+| 10231079 | Rani Ayu Dewi | Lead QA & Docs | 87 | **A** |
+| 10231077 | Raisha Alika Irwandira | Lead Backend | 80 | **AB** |
+| 10231069 | Nicholas Christian Samuel Manurung | Lead Frontend | 77 | **AB** |
 
-### kelompok ethereal
-| Nama | NIM | Role | Ind. | Kel. | Rata-rata | Grade |
-|---|---|---|---|---|---|---|
-| Tiya Mitra Ayu | 10231088 | Lead Backend | 84 | 84.50 | 84.25 | **AB** |
-| Amazia Devid Saputra | 10231013 | Lead Frontend | 84 | 84.50 | 84.25 | **AB** |
-| Alsha Dwi Cahya | 10231011 | Lead DevOps | 84 | 84.50 | 84.25 | **AB** |
-| Ansellma Tita Pakartiwuri P | 10231017 | Lead CI/CD & Deploy | 76 | 84.50 | 80.25 | **AB** |
-| Andini Permata Sari | 10231015 | Lead QA & Docs | 74 | 84.50 | 79.25 | **AB** |
+### cc-kelompok-a-ethereal
+| NIM | Nama | Peran | Skor | Nilai |
+|-----|------|-------|:----:|:-----:|
+| 10231088 | Tiya Mitra Ayu | Lead Backend | 84 | **AB** |
+| 10231013 | Amazia Devid Saputra | Lead Frontend | 84 | **AB** |
+| 10231011 | Alsha Dwi Cahya | Lead DevOps | 84 | **AB** |
+| 10231017 | Ansellma Tita Pakartiwuri P | Lead CI/CD & Deploy | 76 | **AB** |
+| 10231015 | Andini Permata Sari | Lead QA & Docs | 74 | **B** |
 
-### kelompok nexa
-| Nama | NIM | Role | Ind. | Kel. | Rata-rata | Grade |
-|---|---|---|---|---|---|---|
-| Dhiya Afifah | 10231031 | Lead Frontend | 83 | 83.75 | 83.38 | **AB** |
-| Gabriel Karmen Sanggalangi | 10231039 | Lead QA & Docs | 80 | 83.75 | 81.88 | **AB** |
-| Ika Agustin Wulandari | 10231041 | Lead DevOps | 78 | 83.75 | 80.88 | **AB** |
-| Dzaky Rasyiq Zuhair | 10231035 | Lead Backend | 75 | 83.75 | 79.38 | **AB** |
+### cc-kelompok-a-nexa
+| NIM | Nama | Peran | Skor | Nilai |
+|-----|------|-------|:----:|:-----:|
+| 10231031 | Dhiya Afifah | Lead Frontend | 83 | **AB** |
+| 10231039 | Gabriel Karmen Sanggalangi | Lead QA & Docs | 80 | **AB** |
+| 10231041 | Ika Agustin Wulandari | Lead DevOps | 78 | **AB** |
+| 10231035 | Dzaky Rasyiq Zuhair | Lead Backend | 75 | **B** |
 
-### kelompok antek-antek-asing
-| Nama | NIM | Role | Ind. | Kel. | Rata-rata | Grade |
-|---|---|---|---|---|---|---|
-| Nanda Aulia Putri | 10231067 | Lead QA & Docs | 85 | 83.00 | 84.00 | **AB** |
-| Muhammad Bagas Setiawan | 10231061 | Lead Frontend | 84 | 83.00 | 83.50 | **AB** |
-| Muhammad Athala Romero | 10231059 | Lead Backend | 81 | 83.00 | 82.00 | **AB** |
-| Muhammad Fikri Haikal Ariadma | 10231063 | Lead DevOps | 77 | 83.00 | 80.00 | **AB** |
+### cc-kelompok-a-antek-antek-asing
+| NIM | Nama | Peran | Skor | Nilai |
+|-----|------|-------|:----:|:-----:|
+| 10231067 | Nanda Aulia Putri | Lead QA & Docs | 85 | **AB** |
+| 10231061 | Muhammad Bagas Setiawan | Lead Frontend | 84 | **AB** |
+| 10231059 | Muhammad Athala Romero | Lead Backend | 81 | **AB** |
+| 10231063 | Muhammad Fikri Haikal Ariadma | Lead DevOps | 77 | **AB** |
 
-### kelompok steam
-| Nama | NIM | Role | Ind. | Kel. | Rata-rata | Grade |
-|---|---|---|---|---|---|---|
-| Jonathan Cristopher Jetro | 10231047 | Lead DevOps | 86 | 82.50 | 84.25 | **AB** |
-| Incha Raghil | 10231043 | Lead Frontend | 85 | 82.50 | 83.75 | **AB** |
-| Irfan Zaki Riyanto | 10231045 | Lead Backend | 81 | 82.50 | 81.75 | **AB** |
-| Jonathan Joseph Yudita Tampubolon | 10231048 | Lead QA & Docs | 73 | 82.50 | 77.75 | **AB** |
+### cc-kelompok-a-steam
+| NIM | Nama | Peran | Skor | Nilai |
+|-----|------|-------|:----:|:-----:|
+| 10231047 | Jonathan Cristopher Jetro | Lead DevOps | 86 | **A** |
+| 10231043 | Incha Raghil | Lead Frontend | 85 | **AB** |
+| 10231045 | Irfan Zaki Riyanto | Lead Backend | 81 | **AB** |
+| 10231048 | Jonathan Joseph Yudita Tampubolon | Lead QA & Docs | 73 | **B** |
 
-### kelompok miracle
-| Nama | NIM | Role | Ind. | Kel. | Rata-rata | Grade |
-|---|---|---|---|---|---|---|
-| Debora Intania Subekti | 10231029 | Lead Backend | 91 | 81.75 | 86.38 | **A** |
-| Yosan Pratiwi | 10231091 | Lead Frontend | 87 | 81.75 | 84.38 | **AB** |
-| Avhilla Catton Andalucia | 10231021 | Lead Container | 86 | 81.75 | 83.88 | **AB** |
-| Chelsy Olivia | 10231025 | Lead CI/CD & Deploy | 82 | 81.75 | 81.88 | **AB** |
-| Betran | 10231023 | Lead QA & Docs | 80 | 81.75 | 80.88 | **AB** |
+### cc-kelompok-a-miracle
+| NIM | Nama | Peran | Skor | Nilai |
+|-----|------|-------|:----:|:-----:|
+| 10231029 | Debora Intania Subekti | Lead Backend | 91 | **A** |
+| 10231091 | Yosan Pratiwi | Lead Frontend | 87 | **A** |
+| 10231021 | Avhilla Catton Andalucia | Lead Container | 86 | **A** |
+| 10231025 | Chelsy Olivia | Lead CI/CD & Deploy | 82 | **AB** |
+| 10231023 | Betran | Lead QA & Docs | 80 | **AB** |
 
-### kelompok nyawit
-| Nama | NIM | Role | Ind. | Kel. | Rata-rata | Grade |
-|---|---|---|---|---|---|---|
-| PutuNgurahSemara | TBD | — | 74 | 74.25 | 74.13 | **B** |
-| Hazley | 10231042 | — | 67 | 74.25 | 70.63 | **B** |
+### cc-kelompok-a-nyawit
+| NIM | Nama | Peran | Skor | Nilai |
+|-----|------|-------|:----:|:-----:|
+| TBD | PutuNgurahSemara | *(peran belum terkonfirmasi)* | 74 | **B** |
+| 10231042 | Hazley | *(peran belum terkonfirmasi)* | 67 | **B** |
 
-### kelompok team-agile
-| Nama | NIM | Role | Ind. | Kel. | Rata-rata | Grade |
-|---|---|---|---|---|---|---|
-| Dahayu Azhka Daeshawnda | 10231027 | Lead Frontend | 67 | 60.75 | 63.88 | **BC** |
-| Arthur Tirtajaya Jehuda | 10231019 | Lead Backend | 60 | 60.75 | 60.38 | **C** |
-| Norbertino Eurakha Nandatoti | 10231071 | Lead DevOps | 55 | 60.75 | 57.88 | **C** |
+### cc-kelompok-a-team-agile
+| NIM | Nama | Peran | Skor | Nilai |
+|-----|------|-------|:----:|:-----:|
+| 10231027 | Dahayu Azhka Daeshawnda | Lead Frontend | 67 | **B** |
+| 10231019 | Arthur Tirtajaya Jehuda | Lead Backend | 60 | **BC** |
+| 10231071 | Norbertino Eurakha Nandatoti | Lead DevOps | 55 | **C** |
 
-### kelompok pria-solo
-| Nama | NIM | Role | Ind. | Kel. | Rata-rata | Grade |
-|---|---|---|---|---|---|---|
-| jstdyn / justdyn | TBD | — | PENDING | 26.25 | — | **PENDING** |
-
----
-
-## C. Flag & Isu yang Perlu Konfirmasi Dosen
-
-| # | Kelompok | Isu | Prioritas |
-|---|---|---|---|
-| 1 | **pria-solo** | `/team` berisi data palsu "Hyundo". Laravel frontend bukan React. Hanya 1 kontributor. Perlu identifikasi `jstdyn` dan status anggota. | 🔴 KRITIS |
-| 2 | **nyawit** | Tidak ada `/team` endpoint. NIM Putu Ngurah Semara tidak diketahui (tidak pakai email ITK). Hanya 2 anggota aktif. | 🔴 KRITIS |
-| 3 | **team-agile** | Hanya 3 anggota. Field `"team"` masih `"cloud-team-XX"`. Tidak ada JWT. Tidak ada commit di Minggu 1 dan 4. | 🟠 PENTING |
-| 4 | **miracle** | `piz4rroo` (1 commit W9, `beyranjr99@gmail.com`) tidak ada di `/team` – perlu klarifikasi. Field `"team"` masih `"cloud-team-XX"`. | 🟡 PERLU CEK |
-| 5 | **steam** | `Myst-ADL` (2 commit W9) = akun dosen `aidilsaputrakirsan` – dikecualikan dari nilai mahasiswa. | 🟡 INFO |
-| 6 | **awit** | `unknown` = Varrel Kaleb (dikonfirmasi via email `varrelpassaribu@gmail.com`) – tidak pakai email ITK. | 🟡 INFO |
-| 7 | **antek-antek-asing** | Komentar TODO masih tersisa di kode `/team`. | 🟢 MINOR |
-| 8 | **steam** | Komentar TODO masih tersisa di kode `/team`. | 🟢 MINOR |
+### cc-kelompok-a-pria-solo
+| NIM | Nama | Peran | Skor | Nilai |
+|-----|------|-------|:----:|:-----:|
+| TBD | jstdyn / justdyn | *(tidak terkonfirmasi)* | **DITUNDA** | — |
 
 ---
 
-## D. Statistik Kelas A
+## C. MAHASISWA BERMASALAH — PERLU PERHATIAN DOSEN
 
-- **Jumlah kelompok:** 12
-- **Jumlah mahasiswa teridentifikasi:** ~47 (belum termasuk yang pending)
-- **Distribusi Grade Kelompok:**
-  - A: 2 kelompok (hexacore, suksesss)
-  - AB: 7 kelompok (awit, extraordinary, ethereal, nexa, antek-antek-asing, steam, miracle)
-  - B: 1 kelompok (nyawit)
-  - C: 1 kelompok (team-agile)
-  - E: 1 kelompok (pria-solo)
+> Daftar mahasiswa dengan nilai sangat rendah atau isu keanggotaan yang memerlukan klarifikasi:
 
----
-
-## E. Catatan Umum
-
-1. Kelompok **hexacore** adalah yang paling outstanding – 27 CRUD routes, aplikasi LenteraPustaka yang komprehensif, semua anggota aktif 4 minggu.
-2. **nyawit** secara teknis adalah kelompok yang paling canggih (TypeScript, charts, role-based auth, 23 routes) namun gagal pada deliverable dasar (no /team, no .env.example, mulai telat).
-3. **pria-solo** dan **team-agile** membutuhkan perhatian khusus – jauh di bawah ekspektasi Fase 1.
-4. Beberapa kelompok menggunakan 5 anggota dengan role lebih granular (awit: Container + CI/CD terpisah; ethereal: CI/CD + QA terpisah; miracle: Container + CI/CD terpisah) – inovatif.
-5. Penilaian ini belum mencakup **Quiz** (tidak dapat dinilai dari repository) – akan ditambahkan setelah quiz dilaksanakan.
+| No | NIM | Nama | Kelompok | Masalah |
+|----|-----|------|----------|---------|
+| 1 | TBD | jstdyn / justdyn | pria-solo | Satu-satunya kontributor aktif; `/team` berisi data palsu "Hyundo"; frontend Laravel PHP bukan React; nilai DITUNDA |
+| 2 | TBD | PutuNgurahSemara | nyawit | NIM tidak diketahui (tidak pakai email ITK); tidak ada `/team` endpoint di repo |
+| 3 | 10231071 | Norbertino Eurakha Nandatoti | team-agile | 3 commit, hanya aktif 1 minggu (W10), tidak ada W9/W12 |
+| 4 | 10231019 | Arthur Tirtajaya Jehuda | team-agile | 3 commit, hanya aktif 1 minggu (W10) |
+| 5 | 10231089 | Varrel Kaleb Ropard Pasaribu | awit | 5 commit, git name "unknown", tidak pakai email ITK |
+| 6 | TBD | piz4rroo | miracle | 1 commit W9 (`beyranjr99@gmail.com`), tidak terdaftar di `/team` |
 
 ---
 
-*Laporan ini dibuat berdasarkan analisis git log dan kode sumber per tanggal 29 Maret 2026.*
-*Untuk melihat detail per kelompok, lihat file laporan individual di folder ini.*
+## D. ISU TEKNIS YANG PERLU DITINDAKLANJUTI
+
+| Kelompok | Isu |
+|----------|-----|
+| pria-solo | `/team` berisi data palsu ("Hyundo", NIM "78903422"); frontend adalah Laravel PHP bukan React/Vite |
+| nyawit | Tidak ada `/team` endpoint; tidak ada `.env.example`; tidak ada commit di Minggu 1 |
+| team-agile | Field `"team"` masih `"cloud-team-XX"`; tidak ada JWT; hanya 3 anggota; tidak ada commit W9 & W12 |
+| miracle | Field `"team"` masih `"cloud-team-XX"`; `piz4rroo` tidak terdaftar di `/team` |
+| steam | Akun dosen `aidilsaputrakirsan` (Myst-ADL) terdeteksi di git log — 2 commit W9, dikecualikan dari penilaian |
+| steam | Komentar `# TODO: Isi dengan data tim Anda` masih tersisa di kode `/team` |
+| antek-antek-asing | Komentar `# TODO: Isi dengan data tim Anda` masih tersisa di kode `/team` |
+| awit | Varrel Kaleb tidak menggunakan email ITK di git config (nama tercatat "unknown") |
+
+---
+
+## E. RINGKASAN STATISTIK
+
+| Metrik | Nilai |
+|--------|-------|
+| Kelompok terbaik (tugas) | hexacore (90.50) |
+| Kelompok perlu perhatian | pria-solo (26.25), team-agile (60.75), nyawit (74.25) |
+| Anggota terbaik (individu) | Maulana Malik Ibrahim / hexacore (94) |
+| Anggota perlu intervensi | 4 mahasiswa dengan nilai < 60 atau DITUNDA |
+| Kelompok dengan anomali keanggotaan | pria-solo (1 kontributor), nyawit (2 kontributor, no /team), team-agile (3 anggota) |
+| Kelompok dengan placeholder tidak bersih | miracle, team-agile, steam, antek-antek-asing |
+
+---
+
+*Semua data diverifikasi langsung dari `git log`, kode sumber, dan endpoint `/team` masing-masing repository.*
+*Laporan detail per kelompok tersedia di file masing-masing dalam folder ini.*

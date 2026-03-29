@@ -8,7 +8,14 @@
       "Bash(grep \"\\\\.env$\")",
       "Bash(head -2 echo \"-- CORS in main.py --\" grep -n \"allow_origins\\\\|ALLOWED_ORIGINS\\\\|origins\" backend/main.py)",
       "Bash(head -3 echo \"-- JWT in main.py --\" grep -n \"jwt\\\\|JWT\\\\|token\\\\|auth\" backend/main.py)",
-      "Bash(/dev/null echo:*)"
+      "Bash(/dev/null echo:*)",
+      "Bash(gh classroom:*)",
+      "Bash(sort -k3 echo \"\" done)",
+      "Bash(BASE=\"c:/laragon/www/Materi-Presentasi/2026-modul-praktikum-cloudcomputing/student-repos/kelas-A/cc-kelompok-a-submissions\")",
+      "Bash(for k:*)",
+      "Bash(do)",
+      "Bash(echo \"====== cc-kelompok-a-$k ======\")",
+      "Read(//c/laragon/www/Materi-Presentasi/2026-modul-praktikum-cloudcomputing/$BASE/**)"
     ]
   }
 }
