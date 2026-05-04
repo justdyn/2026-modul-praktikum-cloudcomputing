@@ -1,4 +1,4 @@
-﻿# MODUL 9: GIT WORKFLOW & BRANCHING STRATEGY
+z﻿# MODUL 9: GIT WORKFLOW & BRANCHING STRATEGY
 
 ---
 
@@ -471,7 +471,7 @@ git push origin chore/add-codeowners
 5. Klik **Create pull request**
 6. Minta 1 anggota tim untuk **review & approve**
 7. Setelah approved → **Squash and merge**
-8. ✅ Hapus branch setelah merge (klik "Delete branch")
+
 
 > ✅ **Checkpoint:** File `.github/CODEOWNERS` ada di main, PR pertama berhasil di-merge!
 
