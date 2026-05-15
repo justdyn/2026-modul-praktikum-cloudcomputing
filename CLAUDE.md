@@ -42,6 +42,22 @@ Untuk menilai kelompok, gunakan skill `/nilai-kelompok <nama-kelompok>` atau iku
 
 | Kelompok | F1 | F2 | F4 | F5 | F6 |
 |---|:---:|:---:|:---:|:---:|:---:|
+**Reguler:**
+| Kelompok | F1 | F2 | F4 | F5 | F6 |
+|---|:---:|:---:|:---:|:---:|:---:|
 | hexacore | ✅ | ✅ | ✅ | ⬜ | ⬜ |
 | antek-antek-asing | ✅ | ✅ | ✅ | ⬜ | ⬜ |
-| awit, ethereal, extraordinary, miracle, nexa, nyawit, pria-solo, steam, suksesss, team-agile | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| awit | ✅ | ✅ | ✅ | ⬜ | ⬜ |
+| ethereal | ✅ | ✅ | ✅ | ⬜ | ⬜ |
+| extraordinary | ✅ | ✅ | ✅ | ⬜ | ⬜ |
+| miracle | ✅ | ✅ | ✅ | ⬜ | ⬜ |
+| nexa | ✅ | ✅ | ✅ | ⬜ | ⬜ |
+| steam | ✅ | ✅ | ✅ | ⬜ | ⬜ |
+| suksesss | ✅ | ✅ | ✅ | ⬜ | ⬜ |
+
+**Magang/konversi (tabel terpisah di README, NIM tidak di gradebook xlsx):**
+| Kelompok | F1 | F2 | F4 | F5 | F6 |
+|---|:---:|:---:|:---:|:---:|:---:|
+| nyawit 🎓 | ✅ | ✅ | ✅ | ⬜ | ⬜ |
+| pria-solo 🎓 | ✅ | ✅ | ✅ | ⬜ | ⬜ |
+| team-agile 🎓 | ✅ | ✅ | ✅ | ⬜ | ⬜ |
