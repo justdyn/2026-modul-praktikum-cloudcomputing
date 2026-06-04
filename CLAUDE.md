@@ -5,7 +5,7 @@ Proyek ini berisi materi praktikum + sistem penilaian tugas besar untuk MK Kompu
 ## Struktur Direktori Penting
 
 - `[01-15]-modul.md` — modul praktikum per minggu (RPS)
-- `student-repos/kelas-A/cc-kelompok-a-submissions/cc-kelompok-a-submissions/cc-kelompok-a-<nama>/` — repo kelas A (hasil `gh classroom clone -a 952202`)
+- `student-repos/kelas-A/cc-kelompok-a-submissions/cc-kelompok-a-<nama>/` — repo kelas A (hasil `gh classroom clone -a 952202`, double-nest sudah dirapikan jadi 1 level)
 - `student-repos/kelas-B/cc-kelompok-submissions/cc-kelompok-<nama>/` — repo kelas B (hasil `gh classroom clone -a 941045`). **Perhatikan:** path = `cc-kelompok-submissions` (bukan `cc-kelompok-b-submissions`), nama kelompok **tanpa** prefix `b-`.
 - `hasil-penilaian/` — penilaian Fase 1 **versi modul lama** (jangan diubah, hanya rujukan)
 - `hasil-penilaian-tugasbesar/kelas-A/` & `hasil-penilaian-tugasbesar/kelas-B/` — penilaian **tugas besar** (output utama)
@@ -58,27 +58,29 @@ Proyek ini berisi materi praktikum + sistem penilaian tugas besar untuk MK Kompu
 
 Untuk menilai kelompok baru, gunakan skill `/nilai-kelompok <nama-kelompok>` atau ikuti [.claude/skills/nilai-kelompok/SKILL.md](.claude/skills/nilai-kelompok/SKILL.md).
 
-## Status Pengisian (per 2026-05-15)
+## Status Pengisian (per 2026-06-04)
+
+> ⚠️ Repo kelas A sudah di-`git fetch` + `reset --hard origin/main` ke kondisi terkini (snapshot lama 15 Mei stale — F5/F6 student push belum masuk). 9/12 kelompok punya `services/` + dekomposisi microservices nyata. team-agile abandoned (last commit Mar 10).
 
 ### Kelas A — Reguler (9 kelompok, 40 mhs di xlsx termasuk 1 luar kelas)
 | Kelompok | F1 | F2 | F4 | F5 | F6 |
 |---|:---:|:---:|:---:|:---:|:---:|
-| hexacore | ✅ | ✅ | ✅ | ⬜ | ⬜ |
-| antek-antek-asing | ✅ | ✅ | ✅ | ⬜ | ⬜ |
-| awit | ✅ | ✅ | ✅ | ⬜ | ⬜ |
-| ethereal | ✅ | ✅ | ✅ | ⬜ | ⬜ |
-| extraordinary | ✅ | ✅ | ✅ | ⬜ | ⬜ |
-| miracle | ✅ | ✅ | ✅ | ⬜ | ⬜ |
-| nexa | ✅ | ✅ | ✅ | ⬜ | ⬜ |
-| steam | ✅ | ✅ | ✅ | ⬜ | ⬜ |
-| suksesss | ✅ | ✅ | ✅ | ⬜ | ⬜ |
+| hexacore | ✅ | ✅ | ✅ | ✅ | ⬜ |
+| antek-antek-asing | ✅ | ✅ | ✅ | ✅ | ⬜ |
+| awit | ✅ | ✅ | ✅ | ✅ | ⬜ |
+| ethereal | ✅ | ✅ | ✅ | ✅ | ⬜ |
+| extraordinary | ✅ | ✅ | ✅ | ✅ | ⬜ |
+| miracle | ✅ | ✅ | ✅ | ✅ | ⬜ |
+| nexa | ✅ | ✅ | ✅ | ✅ | ⬜ |
+| steam | ✅ | ✅ | ✅ | ✅ | ⬜ |
+| suksesss | ✅ | ✅ | ✅ | ✅ | ⬜ |
 
 ### Kelas A — Magang/konversi (3 kelompok, tabel terpisah di README, NIM tidak di xlsx)
 | Kelompok | F1 | F2 | F4 | F5 | F6 |
 |---|:---:|:---:|:---:|:---:|:---:|
-| nyawit 🎓 | ✅ | ✅ | ✅ | ⬜ | ⬜ |
-| pria-solo 🎓 | ✅ | ✅ | ✅ | ⬜ | ⬜ |
-| team-agile 🎓 | ✅ | ✅ | ✅ | ⬜ | ⬜ |
+| nyawit 🎓 | ✅ | ✅ | ✅ | ✅ | ⬜ |
+| pria-solo 🎓 | ✅ | ✅ | ✅ | ✅ | ⬜ |
+| team-agile 🎓 | ✅ | ✅ | ✅ | ✅ | ⬜ |
 
 ### Kelas B (36 mhs reguler di xlsx)
 | Kelompok | F1 | F2 | F4 | F5 | F6 | Catatan |

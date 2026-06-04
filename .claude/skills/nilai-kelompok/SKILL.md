@@ -33,7 +33,7 @@ Sebelum mulai, baca **CLAUDE.md** di root project untuk peta direktori, mapping 
 
 **Kelas A:**
 ```
-student-repos/kelas-A/cc-kelompok-a-submissions/cc-kelompok-a-submissions/cc-kelompok-a-<nama>/
+student-repos/kelas-A/cc-kelompok-a-submissions/cc-kelompok-a-<nama>/
 ```
 
 **Kelas B** (perhatikan path beda, tidak ada prefix `b-`):
@@ -82,7 +82,7 @@ hasil-penilaian-tugasbesar/kelas-B/README.md  ← update tabel + status
 
 ```bash
 # Kelas A
-cd "student-repos/kelas-A/cc-kelompok-a-submissions/cc-kelompok-a-submissions/cc-kelompok-a-<nama>"
+cd "student-repos/kelas-A/cc-kelompok-a-submissions/cc-kelompok-a-<nama>"
 # Kelas B
 cd "student-repos/kelas-B/cc-kelompok-submissions/cc-kelompok-<nama>"
 
