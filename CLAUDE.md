@@ -60,7 +60,9 @@ Untuk menilai kelompok baru, gunakan skill `/nilai-kelompok <nama-kelompok>` ata
 
 ## Status Pengisian (per 2026-06-04)
 
-> ⚠️ Repo kelas A sudah di-`git fetch` + `reset --hard origin/main` ke kondisi terkini (snapshot lama 15 Mei stale — F5/F6 student push belum masuk). 9/12 kelompok punya `services/` + dekomposisi microservices nyata. team-agile abandoned (last commit Mar 10).
+> ⚠️ **Selalu refresh clone sebelum menilai** (`git fetch` + `reset --hard origin/<default>`; extraordinary pakai `master`). Snapshot kelas A lama (15 Mei) stale — F5 student push belum masuk. Kelas B clone (per 4 Jun) sudah fresh.
+>
+> **F5 lengkap untuk kelas A (12) dan kelas B (11).** Kelas A: 9/12 dekomposisi microservices nyata; nexa modular-monolith; awit kode tak ter-wire; nyawit & team-agile gagal/abandoned. Kelas B: 10/11 dekomposisi nyata; kel6 = sama anggota hexagroup (F5 dari hexagroup). Sisa: F6.
 
 ### Kelas A — Reguler (9 kelompok, 40 mhs di xlsx termasuk 1 luar kelas)
 | Kelompok | F1 | F2 | F4 | F5 | F6 |
@@ -85,17 +87,17 @@ Untuk menilai kelompok baru, gunakan skill `/nilai-kelompok <nama-kelompok>` ata
 ### Kelas B (36 mhs reguler di xlsx)
 | Kelompok | F1 | F2 | F4 | F5 | F6 | Catatan |
 |---|:---:|:---:|:---:|:---:|:---:|---|
-| bismillah_a | ✅ | ✅ | ✅ | ⬜ | ⬜ | Salsabila magang (di tabel magang) |
-| ccc_clan | ✅ | ✅ | ✅ | ⬜ | ⬜ | reguler |
-| freepalestine 🎓 | ✅ | ✅ | ✅ | ⬜ | ⬜ | semua magang |
-| harahetta-2 | ✅ | ✅ | ✅ | ⬜ | ⬜ | reguler |
-| hexagroup | ✅ | ✅ | ✅ | ⬜ | ⬜ | **5 anggota sama dengan kel6** — primary repo F2+F4 |
-| ignite | ✅ | ✅ | ✅ | ⬜ | ⬜ | reguler |
-| kel6 | ✅ | ✅ | ✅ | ⬜ | ⬜ | **5 anggota sama dengan hexagroup** — primary repo F1 |
-| nyawit_1 | ✅ | ✅ | ✅ | ⬜ | ⬜ | reguler |
-| sowelcloudspace | ✅ | ✅ | ✅ | ⬜ | ⬜ | reguler |
-| stranger_things | ✅ | ✅ | ✅ | ⬜ | ⬜ | reguler |
-| taskete_7 | ✅ | ✅ | ✅ | ⬜ | ⬜ | Rayhan magang (di tabel magang) |
+| bismillah_a | ✅ | ✅ | ✅ | ✅ | ⬜ | Salsabila magang (di tabel magang) |
+| ccc_clan | ✅ | ✅ | ✅ | ✅ | ⬜ | reguler |
+| freepalestine 🎓 | ✅ | ✅ | ✅ | ✅ | ⬜ | semua magang |
+| harahetta-2 | ✅ | ✅ | ✅ | ✅ | ⬜ | reguler |
+| hexagroup | ✅ | ✅ | ✅ | ✅ | ⬜ | **5 anggota sama dengan kel6** — primary repo F2+F4 |
+| ignite | ✅ | ✅ | ✅ | ✅ | ⬜ | reguler |
+| kel6 | ✅ | ✅ | ✅ | ✅ | ⬜ | **5 anggota sama dengan hexagroup** — primary repo F1 |
+| nyawit_1 | ✅ | ✅ | ✅ | ✅ | ⬜ | reguler |
+| sowelcloudspace | ✅ | ✅ | ✅ | ✅ | ⬜ | reguler |
+| stranger_things | ✅ | ✅ | ✅ | ✅ | ⬜ | reguler |
+| taskete_7 | ✅ | ✅ | ✅ | ✅ | ⬜ | Rayhan magang (di tabel magang) |
 
 ## Catatan Khusus untuk Future Work (F5 + F6)
 
