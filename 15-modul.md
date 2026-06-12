@@ -189,19 +189,6 @@ README harus mencakup:
 6. **Deployment** — cara deploy ke Railway/cloud
 7. **Team** — anggota dan kontribusi masing-masing
 8. **Project Journey** — evolusi dari monolith ke microservices
-
-### 3.3 Slide Presentasi UAS (5-7 Slide)
-
-| Slide | Isi | Waktu |
-|-------|-----|-------|
-| 1 | **Judul** — nama proyek, nama tim, logo | 30 detik |
-| 2 | **Problem & Solution** — masalah yang diselesaikan | 1 menit |
-| 3 | **Architecture Journey** — monolith → microservices | 2 menit |
-| 4 | **Tech Stack & Infrastructure** — Docker, CI/CD, Railway, monitoring | 2 menit |
-| 5 | **Live Demo** — register → login → CRUD → status page | 3 menit |
-| 6 | **Challenges & Lessons Learned** — masalah yang dihadapi dan solusinya | 2 menit |
-| 7 | **Kontribusi Tim** — siapa mengerjakan apa, metrics (commits, PRs) | 1 menit |
-
 ---
 
 # BAGIAN B: WORKSHOP LAB (170 Menit)
