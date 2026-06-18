@@ -64,40 +64,42 @@ Untuk menilai kelompok baru, gunakan skill `/nilai-kelompok <nama-kelompok>` ata
 >
 > **F5 lengkap untuk kelas A (12) dan kelas B (11).** Kelas A: 9/12 dekomposisi microservices nyata; nexa modular-monolith; awit kode tak ter-wire; nyawit & team-agile gagal/abandoned. Kelas B: 10/11 dekomposisi nyata; kel6 = sama anggota hexagroup (F5 dari hexagroup). Sisa: F6.
 
+> **F6 kelas A = 🔶**: C17 (Security) & C18 (Dok C4 + Reflection) sudah dinilai (clone fresh 18 Jun). C19–C22 diisi dosen. C15/C16 (F5) diverifikasi tetap. **Kelas A & B reguler F6 LENGKAP (C17–C22)** — C19–C22 dari `UAS - Kelas [A/B] Form Penilaian.xlsx`. Hanya mahasiswa magang (kelas A: nyawit/pria-solo/team-agile; kelas B: freepalestine/Salsabila/Rayhan) yang baru C17/C18 (tidak tercakup form UAS). Catatan: 5 typo NIM di form kelas B sudah dikoreksi via nama→gradebook.
+
 ### Kelas A — Reguler (9 kelompok, 40 mhs di xlsx termasuk 1 luar kelas)
 | Kelompok | F1 | F2 | F4 | F5 | F6 |
 |---|:---:|:---:|:---:|:---:|:---:|
-| hexacore | ✅ | ✅ | ✅ | ✅ | ⬜ |
-| antek-antek-asing | ✅ | ✅ | ✅ | ✅ | ⬜ |
-| awit | ✅ | ✅ | ✅ | ✅ | ⬜ |
-| ethereal | ✅ | ✅ | ✅ | ✅ | ⬜ |
-| extraordinary | ✅ | ✅ | ✅ | ✅ | ⬜ |
-| miracle | ✅ | ✅ | ✅ | ✅ | ⬜ |
-| nexa | ✅ | ✅ | ✅ | ✅ | ⬜ |
-| steam | ✅ | ✅ | ✅ | ✅ | ⬜ |
-| suksesss | ✅ | ✅ | ✅ | ✅ | ⬜ |
+| hexacore | ✅ | ✅ | ✅ | ✅ | ✅ |
+| antek-antek-asing | ✅ | ✅ | ✅ | ✅ | ✅ |
+| awit | ✅ | ✅ | ✅ | ✅ | ✅ |
+| ethereal | ✅ | ✅ | ✅ | ✅ | ✅ |
+| extraordinary | ✅ | ✅ | ✅ | ✅ | ✅ |
+| miracle | ✅ | ✅ | ✅ | ✅ | ✅ |
+| nexa | ✅ | ✅ | ✅ | ✅ | ✅ |
+| steam | ✅ | ✅ | ✅ | ✅ | ✅ |
+| suksesss | ✅ | ✅ | ✅ | ✅ | ✅ |
 
 ### Kelas A — Magang/konversi (3 kelompok, tabel terpisah di README, NIM tidak di xlsx)
 | Kelompok | F1 | F2 | F4 | F5 | F6 |
 |---|:---:|:---:|:---:|:---:|:---:|
-| nyawit 🎓 | ✅ | ✅ | ✅ | ✅ | ⬜ |
-| pria-solo 🎓 | ✅ | ✅ | ✅ | ✅ | ⬜ |
-| team-agile 🎓 | ✅ | ✅ | ✅ | ✅ | ⬜ |
+| nyawit 🎓 | ✅ | ✅ | ✅ | ✅ | 🔶 |
+| pria-solo 🎓 | ✅ | ✅ | ✅ | ✅ | 🔶 |
+| team-agile 🎓 | ✅ | ✅ | ✅ | ✅ | 🔶 |
 
 ### Kelas B (36 mhs reguler di xlsx)
 | Kelompok | F1 | F2 | F4 | F5 | F6 | Catatan |
 |---|:---:|:---:|:---:|:---:|:---:|---|
-| bismillah_a | ✅ | ✅ | ✅ | ✅ | ⬜ | Salsabila magang (di tabel magang) |
-| ccc_clan | ✅ | ✅ | ✅ | ✅ | ⬜ | reguler |
-| freepalestine 🎓 | ✅ | ✅ | ✅ | ✅ | ⬜ | semua magang |
-| harahetta-2 | ✅ | ✅ | ✅ | ✅ | ⬜ | reguler |
-| hexagroup | ✅ | ✅ | ✅ | ✅ | ⬜ | **5 anggota sama dengan kel6** — primary repo F2+F4 |
-| ignite | ✅ | ✅ | ✅ | ✅ | ⬜ | reguler |
-| kel6 | ✅ | ✅ | ✅ | ✅ | ⬜ | **5 anggota sama dengan hexagroup** — primary repo F1 |
-| nyawit_1 | ✅ | ✅ | ✅ | ✅ | ⬜ | reguler |
-| sowelcloudspace | ✅ | ✅ | ✅ | ✅ | ⬜ | reguler |
-| stranger_things | ✅ | ✅ | ✅ | ✅ | ⬜ | reguler |
-| taskete_7 | ✅ | ✅ | ✅ | ✅ | ⬜ | Rayhan magang (di tabel magang) |
+| bismillah_a | ✅ | ✅ | ✅ | ✅ | ✅ | Salsabila magang (di tabel magang) |
+| ccc_clan | ✅ | ✅ | ✅ | ✅ | ✅ | reguler |
+| freepalestine 🎓 | ✅ | ✅ | ✅ | ✅ | 🔶 | semua magang |
+| harahetta-2 | ✅ | ✅ | ✅ | ✅ | ✅ | reguler |
+| hexagroup | ✅ | ✅ | ✅ | ✅ | ✅ | **5 anggota sama dengan kel6** — primary repo F2+F4 |
+| ignite | ✅ | ✅ | ✅ | ✅ | ✅ | reguler |
+| kel6 | ✅ | ✅ | ✅ | ✅ | ✅ | **5 anggota sama dengan hexagroup** — primary repo F1 |
+| nyawit_1 | ✅ | ✅ | ✅ | ✅ | ✅ | reguler |
+| sowelcloudspace | ✅ | ✅ | ✅ | ✅ | ✅ | reguler |
+| stranger_things | ✅ | ✅ | ✅ | ✅ | ✅ | reguler |
+| taskete_7 | ✅ | ✅ | ✅ | ✅ | ✅ | Rayhan magang (di tabel magang) |
 
 ## Catatan Khusus untuk Future Work (F5 + F6)
 
