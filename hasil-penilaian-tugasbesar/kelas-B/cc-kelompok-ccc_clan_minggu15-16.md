@@ -41,14 +41,14 @@
 
 **Komponen kelompok (C4 + README):** `docs/architecture.md`, README. Base dokumentasi memadai (80).
 
-**Reflection paper per anggota:** **tidak ada reflection paper** — file `docs/member-*.md` hanya placeholder (≤154B). Nilai C18 dari komponen dokumentasi kelompok saja.
+**Reflection paper per anggota:** 3 dari 4 menulis reflection paper di `docs/reflection-paper/<NIM>_*.md` (Ade, Dzakwan, Risky). Dani (DevOps) belum.
 
 | NIM | Nama | Reflection | C18 |
 |---|---|---|:---:|
-| 10231004 | Ade Ayu Kholifah Putri | tanpa reflection; QA & Docs (kontribusi dokumentasi kelompok) | **72** |
-| 10231034 | Dzakwan Fatih Fadhilah | tanpa reflection | **72** |
-| 10231062 | Muhammad Dani | tanpa reflection | **72** |
-| 10231084 | Risky Nur Fatimah Bahar | tanpa reflection | **70** |
+| 10231004 | Ade Ayu Kholifah Putri | `docs/reflection-paper/10231004-LeadQADocs.md` (~5.5KB) | **82** |
+| 10231034 | Dzakwan Fatih Fadhilah | `docs/reflection-paper/10231034-LeadBackend.md` (~6.7KB) | **82** |
+| 10231062 | Muhammad Dani | tanpa reflection paper | **72** |
+| 10231084 | Risky Nur Fatimah Bahar | `docs/reflection-paper/10231084-LeadFrontend.md` (~6.9KB) | **82** |
 
 ---
 
@@ -60,7 +60,7 @@
 
 | NIM | Nama | Skor |
 |---|---|:---:|
-| 10231004 | Ade Ayu Kholifah Putri | **72** |
-| 10231034 | Dzakwan Fatih Fadhilah | **72** |
+| 10231004 | Ade Ayu Kholifah Putri | **82** |
+| 10231034 | Dzakwan Fatih Fadhilah | **82** |
 | 10231062 | Muhammad Dani | **72** |
-| 10231084 | Risky Nur Fatimah Bahar | **70** |
+| 10231084 | Risky Nur Fatimah Bahar | **82** |

@@ -1,6 +1,8 @@
 # Laporan Penilaian Kelompok team-agile (magang) – Kelas A
 ## Fase 5: Minggu Kuliah 12–14 (11 – 31 Mei 2026) — Microservices
 
+> **Revisi dosen (override konversi magang):** skor gradebook C15 & C16 dinaikkan ke **88** berdasarkan review repo langsung oleh dosen + konteks konversi magang. Penilaian berbasis git di bawah (Section A–C) tetap apa adanya sebagai catatan: di window F5 repo tidak menunjukkan deliverable microservices. Angka final yang berlaku ada di README master.
+
 ---
 
 ### Informasi Kelompok
@@ -63,12 +65,14 @@ Semua anggota **0 commit** di window F5. Absen total → tanpa baseline floor.
 
 **C14 — Kuis (3%):** kosong (dosen manual).
 
-**C15 — Tugas ADR + microservices (3%):** semua anggota **22**
+**C15 — Tugas ADR + microservices (3%):** semua anggota **88** *(revisi dosen)*
 
 **C16 — Kontribusi + architecture diagram (3%):**
 
 | NIM | Nama | Skor |
 |---|---|:---:|
-| 10231019 | Arthur Tirtajaya Jehuda | **20** |
-| 10231027 | Dahayu Azhka Daeshawnda | **20** |
-| 10231071 | Norbertino Eurakha Nandatoti | **20** |
+| 10231019 | Arthur Tirtajaya Jehuda | **88** |
+| 10231027 | Dahayu Azhka Daeshawnda | **88** |
+| 10231071 | Norbertino Eurakha Nandatoti | **88** |
+
+> *Skor C15/C16 di atas = revisi dosen (sebelumnya 22/20 berbasis git window F5).*

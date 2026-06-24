@@ -41,14 +41,14 @@
 
 **Komponen kelompok (C4 + README):** `docs/architecture.md`, README. Base dokumentasi kuat (82).
 
-**Reflection paper per anggota:** **tidak ada reflection paper** — `docs/member-*.md` hanya placeholder (≤154B). Nilai C18 dari komponen dokumentasi kelompok saja.
+**Reflection paper per anggota:** keempat anggota menulis reflection paper di `docs/reflection-paper/<NIM>_*.md`.
 
 | NIM | Nama | Reflection | C18 |
 |---|---|---|:---:|
-| 10231016 | Anjas Geofany Diamare | tanpa reflection; Backend | **74** |
-| 10231020 | Arya Wijaya Saroyo | tanpa reflection; DevOps | **74** |
-| 10231024 | Cantika Ade Qutnindra Maharani | tanpa reflection; kontributor F6 terbanyak (frontend) | **76** |
-| 10231052 | Meiske Handayani | tanpa reflection; QA & Docs (kontribusi dokumentasi) | **76** |
+| 10231016 | Anjas Geofany Diamare | `docs/reflection-paper/10231016_LeadBackend.md` (~3.2KB) | **82** |
+| 10231020 | Arya Wijaya Saroyo | `docs/reflection-paper/10231020_LeadDevOps.md` (~2.2KB) | **80** |
+| 10231024 | Cantika Ade Qutnindra Maharani | `docs/reflection-paper/10231024_LeadFrontend.md` (~5.5KB) | **84** |
+| 10231052 | Meiske Handayani | `docs/reflection-paper/10231052_LeadQADocs.md` (~4.1KB) | **84** |
 
 ---
 
@@ -60,7 +60,7 @@
 
 | NIM | Nama | Skor |
 |---|---|:---:|
-| 10231016 | Anjas Geofany Diamare | **74** |
-| 10231020 | Arya Wijaya Saroyo | **74** |
-| 10231024 | Cantika Ade Qutnindra Maharani | **76** |
-| 10231052 | Meiske Handayani | **76** |
+| 10231016 | Anjas Geofany Diamare | **82** |
+| 10231020 | Arya Wijaya Saroyo | **80** |
+| 10231024 | Cantika Ade Qutnindra Maharani | **84** |
+| 10231052 | Meiske Handayani | **84** |

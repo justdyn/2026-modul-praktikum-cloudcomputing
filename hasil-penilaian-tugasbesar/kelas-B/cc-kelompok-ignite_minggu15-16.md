@@ -2,6 +2,8 @@
 ## Fase 6: Minggu Kuliah 15–16 (1 – 14 Jun 2026) — Final + UAS
 
 > Lingkup: **C17 (Security, kelompok)** & **C18 (Dok C4 + Reflection, Mix per anggota)**. C19–C22 dinilai dosen. F6 = semua role prime (tanpa baseline floor).
+>
+> **Catatan dosen:** role Desnita (10231030 = Lead QA & Docs) dan Putri (10231074 = Lead Frontend) sempat tertukar; sudah dibetulkan. Atas keputusan dosen, **nilai akhir gradebook kedua mahasiswa ini ditukar** (Putri → 86.24/A, Desnita → 80.98/AB). Skor C18 per-reflection di tabel bawah = penilaian asli per file reflection; angka final yang berlaku ada di README master.
 
 ---
 
@@ -18,9 +20,9 @@
 | Nama | NIM | Role |
 |---|---|---|
 | Andini Permata Dewanti | 10231014 | Lead Backend |
-| Desnita Dwi Putri | 10231030 | Lead Frontend |
+| Desnita Dwi Putri | 10231030 | Lead QA & Docs |
 | Krishandy Dhanysa Pratama | 10231050 | Lead DevOps |
-| Putri Rahmawati | 10231074 | Lead QA & Docs |
+| Putri Rahmawati | 10231074 | Lead Frontend |
 
 ---
 
@@ -41,14 +43,14 @@
 
 **Komponen kelompok (C4 + README):** `docs/architecture.md`, README. Base dokumentasi memadai (80).
 
-**Reflection paper per anggota:** **tidak ada reflection paper** — `docs/member-*.md` hanya placeholder (≤154B, sebatas header nama/role). Nilai C18 dari komponen dokumentasi kelompok saja.
+**Reflection paper per anggota:** keempat anggota menulis reflection paper di `docs/reflection-paper/<NIM>_*.md` (volume besar, 7–19KB).
 
 | NIM | Nama | Reflection | C18 |
 |---|---|---|:---:|
-| 10231014 | Andini Permata Dewanti | tanpa reflection; Backend (kontribusi arch doc) | **74** |
-| 10231030 | Desnita Dwi Putri | tanpa reflection | **72** |
-| 10231050 | Krishandy Dhanysa Pratama | tanpa reflection | **72** |
-| 10231074 | Putri Rahmawati | tanpa reflection; QA & Docs (kontributor F6 terbanyak, dokumentasi) | **76** |
+| 10231014 | Andini Permata Dewanti | `docs/reflection-paper/10231014-LeadBackend.md` (~19KB, paling lengkap) | **86** |
+| 10231030 | Desnita Dwi Putri | `docs/reflection-paper/10231030-LeadQADocs.md` (~7KB) | **82** |
+| 10231050 | Krishandy Dhanysa Pratama | `docs/reflection-paper/10231050-LeadDevops.md` (~8.4KB) | **84** |
+| 10231074 | Putri Rahmawati | `docs/reflection-paper/10231074-LeadFrontend.md` (~10KB) | **84** |
 
 ---
 
@@ -60,7 +62,7 @@
 
 | NIM | Nama | Skor |
 |---|---|:---:|
-| 10231014 | Andini Permata Dewanti | **74** |
-| 10231030 | Desnita Dwi Putri | **72** |
-| 10231050 | Krishandy Dhanysa Pratama | **72** |
-| 10231074 | Putri Rahmawati | **76** |
+| 10231014 | Andini Permata Dewanti | **86** |
+| 10231030 | Desnita Dwi Putri | **82** |
+| 10231050 | Krishandy Dhanysa Pratama | **84** |
+| 10231074 | Putri Rahmawati | **84** |

@@ -41,14 +41,14 @@
 
 **Komponen kelompok (C4 + README):** `docs/architecture.md`, README. Base dokumentasi memadai (80).
 
-**Reflection paper per anggota:** **tidak ada reflection paper** — `docs/member-*.md` hanya placeholder (≤138B). Nilai C18 dari komponen dokumentasi kelompok saja.
+**Reflection paper per anggota:** keempat anggota menulis reflection paper di `docs/reflection-paper/<NIM>_*.md` (5.6–11.8KB).
 
 | NIM | Nama | Reflection | C18 |
 |---|---|---|:---:|
-| 10231012 | Amalia Tiara Rezfani | tanpa reflection; QA & Docs (kontributor F6 terbanyak, dokumentasi) | **74** |
-| 10231046 | Irwan Maulana | tanpa reflection; Frontend | **72** |
-| 10231072 | Noviansyah | tanpa reflection; Backend | **72** |
-| 10231080 | Rayhan Iqbal 🎓 | tanpa reflection; DevOps | **72** |
+| 10231012 | Amalia Tiara Rezfani | `docs/reflection-paper/10231012-LeadQAandDocs.md` (~5.6KB) | **82** |
+| 10231046 | Irwan Maulana | `docs/reflection-paper/10231046-LeadFrontend.md` (~8.9KB) | **84** |
+| 10231072 | Noviansyah | `docs/reflection-paper/10231072-LeadBackend.md` (~11.8KB) | **86** |
+| 10231080 | Rayhan Iqbal 🎓 | `docs/reflection-paper/10231080-LeadDevOpsandCICD.md` (~9.9KB) | **84** |
 
 ---
 
@@ -60,7 +60,7 @@
 
 | NIM | Nama | Skor |
 |---|---|:---:|
-| 10231012 | Amalia Tiara Rezfani | **74** |
-| 10231046 | Irwan Maulana | **72** |
-| 10231072 | Noviansyah | **72** |
-| 10231080 | Rayhan Iqbal 🎓 (magang) | **72** |
+| 10231012 | Amalia Tiara Rezfani | **82** |
+| 10231046 | Irwan Maulana | **84** |
+| 10231072 | Noviansyah | **86** |
+| 10231080 | Rayhan Iqbal 🎓 (magang) | **84** |

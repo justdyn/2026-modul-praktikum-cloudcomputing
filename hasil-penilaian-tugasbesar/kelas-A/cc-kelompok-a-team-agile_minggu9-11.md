@@ -36,8 +36,10 @@ Semua anggota: 0 commits.
 
 ### D. Ringkasan untuk Gradebook (Magang)
 
-**C12 (3%):** **25**
-**C13 (3%):** semua anggota **25**
+> **Revisi dosen:** C12 & C13 dinaikkan ke **80** (sebelumnya 25) per review repo + konversi magang. Angka final di README master.
+
+**C12 (3%):** **80** *(revisi dosen)*
+**C13 (3%):** semua anggota **80** *(revisi dosen)*
 
 ---
 

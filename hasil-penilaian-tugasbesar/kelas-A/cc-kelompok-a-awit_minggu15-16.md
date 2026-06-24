@@ -42,13 +42,13 @@
 
 **Komponen kelompok (C4 + README):** `docs/architecture/architecture.md`, `CHANGELOG.md` (#53), dokumentasi observability (#51). Base dokumentasi memadai (78).
 
-**Reflection paper per anggota:** hanya 1 anggota menulis reflection paper formal. Adam & Adonia punya laporan kontribusi (`docs/members/member-*.md`); Adhyasta & Varrel hanya placeholder.
+**Reflection paper per anggota:** Alfian dan Adonia menulis reflection (Adonia `member-[Adonia...].md` berisi refleksi). Adam berisi log kontribusi; Adhyasta & Varrel hanya placeholder.
 
 | NIM | Nama | Reflection | C18 |
 |---|---|---|:---:|
 | 10231003 | Adam Ibnu Ramadhan | log kontribusi `member-[Adam...].md` (46 baris), tanpa reflection paper | **70** |
 | 10231005 | Adhyasta Firdaus | placeholder (1 baris) | **66** |
-| 10231007 | Adonia Azarya Tamalonggehe | log kontribusi `member-[Adonia...].md` (43 baris) | **70** |
+| 10231007 | Adonia Azarya Tamalonggehe | `docs/members/member-[Adonia...].md` (~5.4KB) berisi refleksi | **80** |
 | 10231009 | Alfian Fadillah Putra | `Reflection - [Alfian Fadillah Putra].md` (25 baris) — satu-satunya reflection formal | **80** |
 | 10231089 | Varrel Kaleb Ropard Pasaribu | placeholder (1 baris) | **66** |
 
@@ -64,6 +64,6 @@
 |---|---|:---:|
 | 10231003 | Adam Ibnu Ramadhan | **70** |
 | 10231005 | Adhyasta Firdaus | **66** |
-| 10231007 | Adonia Azarya Tamalonggehe | **70** |
+| 10231007 | Adonia Azarya Tamalonggehe | **80** |
 | 10231009 | Alfian Fadillah Putra | **80** |
 | 10231089 | Varrel Kaleb Ropard Pasaribu | **66** |

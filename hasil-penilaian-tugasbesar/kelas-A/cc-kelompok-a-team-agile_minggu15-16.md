@@ -2,6 +2,8 @@
 ## Fase 6: Minggu Kuliah 15–16 (1 – 14 Jun 2026) — Final + UAS
 
 > Lingkup laporan ini: **C17 (Security checklist, kelompok)** dan **C18 (Dokumentasi C4 + Reflection paper, Mix per anggota)**. C19–C22 dinilai dosen. Nilai masuk **tabel magang terpisah** (NIM tidak di gradebook reguler).
+>
+> **Revisi dosen (override konversi magang):** skor gradebook C17 & C18 dinaikkan ke **88** berdasarkan review repo langsung oleh dosen + konteks konversi magang. Catatan observasi repo di bawah tetap apa adanya. Angka final yang berlaku ada di README master.
 
 ---
 
@@ -45,12 +47,14 @@ Tidak ada `architecture.md`/diagram C4, tidak ada reflection paper. File `docs/m
 
 ### C. Ringkasan untuk Gradebook (Tabel Magang)
 
-**C17 — Security (4%):** semua anggota **20**
+**C17 — Security (4%):** semua anggota **88** *(revisi dosen)*
 
 **C18 — Dok C4 + Reflection (6%):**
 
 | NIM | Nama | Skor |
 |---|---|:---:|
-| 10231019 | Arthur Tirtajaya Jehuda | **20** |
-| 10231027 | Dahayu Azhka Daeshawnda | **20** |
-| 10231071 | Norbertino Eurakha Nandatoti | **20** |
+| 10231019 | Arthur Tirtajaya Jehuda | **88** |
+| 10231027 | Dahayu Azhka Daeshawnda | **88** |
+| 10231071 | Norbertino Eurakha Nandatoti | **88** |
+
+> *Skor C17/C18 di atas = revisi dosen (sebelumnya 20 berbasis observasi repo).*

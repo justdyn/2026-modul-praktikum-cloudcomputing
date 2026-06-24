@@ -41,14 +41,14 @@
 
 **Komponen kelompok (C4 + README):** `docs/architecture.md`, README. Base dokumentasi memadai (80).
 
-**Reflection paper per anggota:** **tidak ada reflection paper** — `docs/member-*.md` hanya placeholder (≤134B). Nilai C18 dari komponen dokumentasi kelompok saja.
+**Reflection paper per anggota:** keempat anggota menulis reflection paper di `docs/reflection paper/<NIM>_*.md`.
 
 | NIM | Nama | Reflection | C18 |
 |---|---|---|:---:|
-| 10231008 | Ahmad Daffa Alfattah | tanpa reflection; Backend | **72** |
-| 10231026 | Cintya Widhi Astuti | tanpa reflection; DevOps | **72** |
-| 10231068 | Nazwa Amelia Zahra | tanpa reflection; Frontend (kontributor F6 terbanyak) | **74** |
-| 10231090 | Verina Rahma Dinah | tanpa reflection; QA & Docs (kontribusi dokumentasi) | **74** |
+| 10231008 | Ahmad Daffa Alfattah | `docs/reflection paper/10231008_LeadBackend.md` | **82** |
+| 10231026 | Cintya Widhi Astuti | `docs/reflection paper/10231026_LeadDevOps.md` | **82** |
+| 10231068 | Nazwa Amelia Zahra | `docs/reflection paper/10231068_LeadFrontend.md` | **82** |
+| 10231090 | Verina Rahma Dinah | `docs/reflection paper/10231090_LeadQADocs.md` | **84** |
 
 ---
 
@@ -60,7 +60,7 @@
 
 | NIM | Nama | Skor |
 |---|---|:---:|
-| 10231008 | Ahmad Daffa Alfattah | **72** |
-| 10231026 | Cintya Widhi Astuti | **72** |
-| 10231068 | Nazwa Amelia Zahra | **74** |
-| 10231090 | Verina Rahma Dinah | **74** |
+| 10231008 | Ahmad Daffa Alfattah | **82** |
+| 10231026 | Cintya Widhi Astuti | **82** |
+| 10231068 | Nazwa Amelia Zahra | **82** |
+| 10231090 | Verina Rahma Dinah | **84** |

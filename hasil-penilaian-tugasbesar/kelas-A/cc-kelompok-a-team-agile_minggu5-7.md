@@ -45,5 +45,7 @@ Semua anggota tidak aktif di F2.
 
 ### D. Ringkasan untuk Gradebook (Magang)
 
-**C05 (4%):** **30**
-**C06 (4%):** semua anggota **30**
+> **Revisi dosen:** C05 & C06 dinaikkan ke **80** (sebelumnya 30) per review repo + konversi magang. Angka final di README master.
+
+**C05 (4%):** **80** *(revisi dosen)*
+**C06 (4%):** semua anggota **80** *(revisi dosen)*
