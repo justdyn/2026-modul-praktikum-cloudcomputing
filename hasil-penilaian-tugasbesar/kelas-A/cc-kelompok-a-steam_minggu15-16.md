@@ -41,13 +41,13 @@
 
 **Komponen kelompok (C4 + README):** `docs/architecture.md` (diagram Mermaid), `api-contract.md`, `final-checklist.md` (#56), `reliability-testing.md` (#55), README arsitektur microservices lengkap (revisi besar 14 Jun). Base dokumentasi kuat (80).
 
-**Reflection paper per anggota:** keempat anggota menulis reflection paper di folder `docs/reflection/` (per-NIM `10231043_Frontend.md`, `10231045_Backend.md`, `10231047_DevOps.md`, + `reflection_paper.md`).
+**Reflection paper per anggota:** keempat anggota menulis reflection paper — 3 per-NIM di `docs/reflection-paper/` dan 1 di `docs/reflection/reflection_paper.md`.
 
 | NIM | Nama | Reflection / kontribusi dok | C18 |
 |---|---|---|:---:|
-| 10231043 | Incha Raghil | `docs/reflection/10231043_Frontend.md` (~2.9KB) | **80** |
-| 10231045 | Irfan Zaki Riyanto | `docs/reflection/10231045_Backend.md` (~4.2KB) + penyusun README/architecture | **84** |
-| 10231047 | Jonathan Cristopher Jetro | `docs/reflection/10231047_DevOps.md` (~3KB) | **80** |
+| 10231043 | Incha Raghil | `docs/reflection-paper/10231043_Frontend.md` (~2.9KB) | **80** |
+| 10231045 | Irfan Zaki Riyanto | `docs/reflection-paper/10231045_Backend.md` (~4.2KB) + penyusun README/architecture | **84** |
+| 10231047 | Jonathan Cristopher Jetro | `docs/reflection-paper/10231047_DevOps.md` (~3KB) | **80** |
 | 10231048 | Jonathan Joseph Yudita Tampubolon | `docs/reflection/reflection_paper.md` (~6KB) + `final-checklist.md` | **80** |
 
 ---
